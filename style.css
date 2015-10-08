@@ -1,0 +1,10 @@
+h1{
+	font-size: 36px;
+	font-family:helvetica; 
+}
+
+.formul{
+	display: inline-block;
+	width: 40%;
+	margin-left: 5%;
+}
